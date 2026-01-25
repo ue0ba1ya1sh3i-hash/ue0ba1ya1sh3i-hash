@@ -23,6 +23,7 @@
 - ### React
   - ### ページコンポーネントは最後にPageをつけてエクスポート
   - ### そのほかのコンポーネントは最後にComponentをつけてエクスポート
+  - ### 思いモジュールはdynamic importとSuspenseでUX改善
 
 ## 命名規則
 - ### `.env`などの定数は`UPPER_UNDERSCORES`で記述
