@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 I’m looking for help with everyone!<br>🌱 I’m currently learning Rust.<br>💬 Ask me about TypeScript!<br>⚡ My japanese code rules is [here.](./code.md)
+🤝 I’m looking for help with everyone!<br>🌱 I’m currently learning Rust.<br>💬 Ask me about TypeScript!
 
 
 ## 🌐 Socials:
